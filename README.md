@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Views](https://komarev.com/ghpvc/?username=StringManolo&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=StringManolo&color=2A3F36)
 
 ![Me!](https://bugs.stringmanolo.ga/resources/yo.png)
 
