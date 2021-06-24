@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=StringManolo&color=FAC151)
 
-+ web: [bugs.stringmanolo.ga](bugs.stringmanolo.ga)
+![Me!](https://bugs.stringmanolo.ga/resources/yo.png)
+
++ web: [bugs.stringmanolo.ga](https://bugs.stringmanolo.ga)
 + telegram: [t.me/stringmanolo](https://t.me/stringmanolo)
 + twitter: [twitter.com/xsstringmanolo](https://twitter.com/xsstringmanolo)
 + ehn: [elhacker.net/StringManolo](https://foro.elhacker.net/profiles/string_manolo-u595084.html)
