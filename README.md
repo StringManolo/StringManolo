@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 + twitter: [twitter.com/xsstringmanolo](https://twitter.com/xsstringmanolo)
 + ehn: [elhacker.net/StringManolo](https://foro.elhacker.net/profiles/string_manolo-u595084.html)
 + email: [manuelvarelacaldas@gmail.com](mailto:manuelvarelacaldas@gmail.com)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&hide=html,css,smali,makefile,dogescript&langs_count=10)
