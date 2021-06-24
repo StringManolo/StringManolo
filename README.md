@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 + web: [bugs.stringmanolo.ga](https://bugs.stringmanolo.ga)
 + telegram: [t.me/stringmanolo](https://t.me/stringmanolo)
++ linkedin: [linkedin/manuel-varela-caldas](https://www.linkedin.com/in/manuel-varela-caldas-97576b207)
 + twitter: [twitter.com/xsstringmanolo](https://twitter.com/xsstringmanolo)
 + ehn: [elhacker.net/StringManolo](https://foro.elhacker.net/profiles/string_manolo-u595084.html)
 + email: [manuelvarelacaldas@gmail.com](mailto:manuelvarelacaldas@gmail.com)
