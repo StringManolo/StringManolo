@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ![Me!](https://bugs.stringmanolo.ga/resources/yo.png)
 
-+ web: [bugs.stringmanolo.ga](https://bugs.stringmanolo.ga)
+<!-- + web: [bugs.stringmanolo.ga](https://bugs.stringmanolo.ga)
 + blog: [strmanolo.blogspot.com](https://strmanolo.blogspot.com)
+-->
 + telegram: [@stringmanolo](https://t.me/stringmanolo)
 + linkedin: [linkedin/manuel-varela-caldas](https://www.linkedin.com/in/manuel-varela-caldas-97576b207)
 + twitter: [twitter.com/xsstringmanolo](https://twitter.com/xsstringmanolo)
