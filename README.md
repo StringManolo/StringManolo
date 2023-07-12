@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=StringManolo&color=2A3F36)
 
-![Me!](https://bugs.stringmanolo.ga/resources/yo.png)
-
 <!-- + web: [bugs.stringmanolo.ga](https://bugs.stringmanolo.ga)
 + blog: [strmanolo.blogspot.com](https://strmanolo.blogspot.com)
 -->
