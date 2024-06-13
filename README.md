@@ -18,11 +18,17 @@ Here are some ideas to get you started:
 <!-- + web: [bugs.stringmanolo.ga](https://bugs.stringmanolo.ga)
 + blog: [strmanolo.blogspot.com](https://strmanolo.blogspot.com)
 -->
++ portfolio: [stringmanolo.github.io](https://stringmanolo.github.io/portfolio/)
 + telegram: [@stringmanolo](https://t.me/stringmanolo)
 + linkedin: [linkedin/manuel-varela-caldas](https://www.linkedin.com/in/manuel-varela-caldas-97576b207)
 + twitter: [twitter.com/xsstringmanolo](https://twitter.com/xsstringmanolo)
 + ehn: [elhacker.net/StringManolo](https://foro.elhacker.net/profiles/string_manolo-u595084.html)
 + email: [manuelvarelacaldas@gmail.com](mailto:manuelvarelacaldas@gmail.com)
++ donate:
+  + XMR:
+   ```
+  428z8183vxPDnvrU7TKpjmiYjqsknqZGVHzk458KZCnRNQWcfJbEXxd1BUfyQoRX1uPssnynN7KwMh2GMeWfK7BeFp1htMA
+    ```
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&hide=html,css,smali,makefile,dogescript&langs_count=10)
