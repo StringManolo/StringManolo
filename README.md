@@ -1,5 +1,3 @@
-# StringManolo
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=StringManolo&color=2A3F36)
 [![committers.top badge](https://user-badge.committers.top/spain/StringManolo.svg)](https://user-badge.committers.top/spain/StringManolo)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&hide=html,css,smali,makefile,dogescript&langs_count=10)
