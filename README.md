@@ -1,34 +1,27 @@
-<!--
-**StringManolo/StringManolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# StringManolo
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=StringManolo&color=2A3F36)
-
-<!-- + web: [bugs.stringmanolo.ga](https://bugs.stringmanolo.ga)
-+ blog: [strmanolo.blogspot.com](https://strmanolo.blogspot.com)
--->
-+ portfolio: [stringmanolo.github.io](https://stringmanolo.github.io/portfolio/)
-+ telegram: [@stringmanolo](https://t.me/stringmanolo)
-+ linkedin: [linkedin/manuel-varela-caldas](https://www.linkedin.com/in/manuel-varela-caldas-97576b207)
-+ twitter: [twitter.com/xsstringmanolo](https://twitter.com/xsstringmanolo)
-+ ehn: [elhacker.net/StringManolo](https://foro.elhacker.net/profiles/string_manolo-u595084.html)
-+ email: [manuelvarelacaldas@gmail.com](mailto:manuelvarelacaldas@gmail.com)
-+ donate:
-  + XMR:
-   ```
-  428z8183vxPDnvrU7TKpjmiYjqsknqZGVHzk458KZCnRNQWcfJbEXxd1BUfyQoRX1uPssnynN7KwMh2GMeWfK7BeFp1htMA
-    ```
-
-
+[![committers.top badge](https://user-badge.committers.top/spain/StringManolo.svg)](https://user-badge.committers.top/spain/StringManolo)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&hide=html,css,smali,makefile,dogescript&langs_count=10)
+
+# Contact
+[https://stringmanolo.github.io](https://stringmanolo.github.io/portfolio/#contact)
+
+
+## Donate
+
+If you find my work useful and would like to support me, you can donate via the following methods:
+
+#### XMR:
+```
+428z8183vxPDnvrU7TKpjmiYjqsknqZGVHzk458KZCnRNQWcfJbEXxd1BUfyQoRX1uPssnynN7KwMh2GMeWfK7BeFp1htMA
+```
+#### GitHub Sponsor:
+[![Sponsor](https://raw.githubusercontent.com/StringManolo/share/master/images/sponsor_card.jpg)](https://github.com/sponsors/StringManolo)
+
+## Special Thanks
+
+### Sponsors
+
+[![AlbertoBSD](https://avatars.githubusercontent.com/u/17832765?s=60&v=4)](https://github.com/albertobsd) 
+[![TeslamegaPower](https://avatars.githubusercontent.com/u/132848198?s=60&v=4)](https://github.com/TeslamegaPower)
