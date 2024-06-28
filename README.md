@@ -26,6 +26,8 @@ Feel free to [reach out](https://stringmanolo.github.io/portfolio/#contact) if y
 ## Donate
 
 If you find my work useful and would like to support me, you can donate via the following methods:
+#### Stripe
+[Stripe - Similar to PayPal](https://buy.stripe.com/bIY7t6b1z3T857G3cc)
 
 #### XMR:
 ```
