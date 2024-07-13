@@ -1,5 +1,5 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=StringManolo&color=2A3F36)](https://github.com/stringmanolo)
-[![committers.top badge](https://user-badge.committers.top/spain/StringManolo.svg)](https://user-badge.committers.top/spain/StringManolo)
+[![committers.top badge](https://user-badge.committers.top/spain/StringManolo.svg?a=2)](https://user-badge.committers.top/spain/StringManolo)
 
 ## Hi there! 👋
 
