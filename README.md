@@ -1,7 +1,10 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=StringManolo&color=2A3F36)](https://github.com/stringmanolo)
-[![committers.top badge](https://user-badge.committers.top/spain/StringManolo.svg?a=2)](https://user-badge.committers.top/spain/StringManolo)
 
-## Hi there! 👋
+<!-- [![committers.top badge](https://user-badge.committers.top/spain/StringManolo.svg?a=2)](https://user-badge.committers.top/spain/StringManolo) -->
+
+<!-- [![Stringzmanolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stringmanolo)](https://github.com/anuraghazra/github-readme-stats) -->
+
+## Hi there!
 
 I'm StringManolo, a passionate software developer and security enthusiast with a strong focus on creating innovative and secure solutions. With a background in various programming languages and technologies, I aim to contribute to the open-source community and collaborate on exciting projects.
 
