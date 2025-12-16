@@ -58,5 +58,6 @@ If you find my work useful and would like to support me, you can donate via the 
 | **[Panther](https://github.com/stringmanolo/panther)** | <img src="./images/panther_screenshot_landscape.jpg" alt="panther_screenshot" width="300" valign="middle"> | Privacy-focused Android browser |
 | **[SOSCW](https://github.com/smallOS-cyberwarfare/smallOS-cyberwarfare)** | <img src="./images/soscw_screenshot.jpg" alt="soscw_screenshot" width="300" valign="middle"> | Linux Userland Distro for Hacking  |
 | **[Termux Hacking 101](https://github.com/StringManolo/hackingTermux101)** | <img src="./images/th101.png" alt="book" width="300" valign="middle"> | Book about Termux and Hacking |
+| **[Dark Messenger](https://github.com/StringManolo/darkmessenger)** | <img src="./images/darkmessenger_screenshot.jpg" alt="darkmessenger_screenshot.jpg" width="300" valign="middle"> | Anonymous and decentralized messaging app |
 
 
