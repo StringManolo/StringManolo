@@ -55,7 +55,7 @@ If you find my work useful and would like to support me, you can donate via the 
 
 | Project | Preview | Description |
 | :--- | :---: | :--- |
-| **[Panther](https://github.com/stringmanolo/panther)** | <img src="./images/panther_screenshot_landscape.jpg" alt="panther_screenshot" width="150" valign="middle"> | Privacy-focused Android browser. |
-| **[SOSCW](https://github.com/smallOS-cyberwarfare/smallOS-cyberwarfare)** | <img src="./images/soscw_screenshot.jpg" alt="soscw_screenshot" width="150" valign="middle"> | Linux Userland Distro for Hacking  |
+| **[Panther](https://github.com/stringmanolo/panther)** | <img src="./images/panther_screenshot_landscape.jpg" alt="panther_screenshot" width="300" valign="middle"> | Privacy-focused Android browser |
+| **[SOSCW](https://github.com/smallOS-cyberwarfare/smallOS-cyberwarfare)** | <img src="./images/soscw_screenshot.jpg" alt="soscw_screenshot" width="300" valign="middle"> | Linux Userland Distro for Hacking  |
 
 
