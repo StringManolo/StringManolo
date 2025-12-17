@@ -70,6 +70,7 @@ If you find my work useful and would like to support me, you can donate via the 
 | **[TGBOT.sh](https://github.com/stringmanolo/tgbot.sh)** | <img src="./images/tgbotsh_screenshot.png" alt="tgbotsh_screenshot" width="300" valign="middle"> | Run commands in a remote system using Telegram chat | 
 | **[nbmxbsf](https://github.com/stringmanolo/nbmxbsf)** | <img src="./images/nbmxbsf_screenshot.jpg" alt="nbmxbsf_screenshot.jpg" width="300" valign="middle"> | General Purpouse Telegram Bot (engine) |
 | **[Fast Framework](https://github.com/stringmanolo/ff2)** | <img src="./images/ff_screenshot.jpg" alt="ff_screenshot" width="300" valign="middle"> | Javascript Framework (components, ts, jsx, router, vdom, ...) |
+| **[Bug Writeups](https://stringmanolo.github.io/bugWriteups/#about)** | <img src="./images/bugwriteups_screenshot.jpg" alt="bugWriteups_screenshot" width="300" valign="middle"> | SPA made with Fast Framework to post vulnerabilities I discovered |
 
 
 
