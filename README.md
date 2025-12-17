@@ -47,7 +47,7 @@
 * Research: Active CVE hunter and bug bounty participant
 * Education: Author of technical Spanish cybersecurity literature
 
-# Contact & Collaboration
+### Contact & Collaboration
 For professional inquiries, security research collaboration, or custom development:
 * Email: [stringmanolo@gmail.com](mailto:stringmanolo@gmail.com)
 * Telegram: [stringmanolo](https://t.me/stringmanolo)
