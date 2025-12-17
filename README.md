@@ -1,58 +1,27 @@
-[![GitHub Views](https://komarev.com/ghpvc/?username=StringManolo&color=2A3F36)](https://github.com/stringmanolo)
+[![GitHub followers](https://img.shields.io/github/followers/StringManolo?label=Followers&style=social)](https://github.com/StringManolo)
+[![Profile Views](https://komarev.com/ghpvc/?username=StringManolo&color=2A3F36&label=Profile+Views)](https://github.com/stringmanolo)
+
+<img src="./images/header_github.png" alt="header_github">
 
 <!-- [![committers.top badge](https://user-badge.committers.top/spain/StringManolo.svg?a=2)](https://user-badge.committers.top/spain/StringManolo) -->
 
 <!-- [![Stringzmanolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stringmanolo)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Hi there!
+### Profile Overview
 
-I'm StringManolo, a passionate software developer and security enthusiast with a strong focus on creating innovative and secure solutions. With a background in various programming languages and technologies, I aim to contribute to the open-source community and collaborate on exciting projects.
+> Galicia, Spain | Self-taught security researcher and creative developer specializing in privacy-focused solutions, offensive security tools, and innovative open-source contributions. Active member of [elhacker.net](https://foro.elhacker.net/profiles/stringmanolo-u595084.html) community since 2012.
 
-## About Me
+### Core Expertise
 
-I have extensive experience in software development, specializing in:
+* Security: Vulnerability Research, Development, Cryptography  
 
-- **Programming Languages**: Proficient in JavaScript, Bash, C++, and more.
-- **Security**: Deep understanding of cybersecurity principles and practices.
-- **Open Source**: Active contributor to several open-source projects.
+* Platforms: Android, Linux  
 
-When I'm not coding, you can find me exploring the latest trends in technology, participating in hacking online communities, and sharing knowledge.
+* Technologies: Full-Stack, App development, CLI, Automation
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&layout=compact&theme=dracula&hide_border=true&lang_count=6&hide=html,css&custom_title=Languages)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&hide=html,css,smali,makefile,dogescript&langs_count=10)
-
-# Contact
-Feel free to [reach out](https://stringmanolo.github.io/portfolio/#contact) if you'd like to collaborate on a project, have any questions, or just want to connect!
-
-
-
-## Donate
-
-If you find my work useful and would like to support me, you can donate via the following methods:
-#### Stripe
-[Stripe - Similar to PayPal](https://buy.stripe.com/bIY7t6b1z3T857G3cc)
-
-#### XMR:
-```
-428z8183vxPDnvrU7TKpjmiYjqsknqZGVHzk458KZCnRNQWcfJbEXxd1BUfyQoRX1uPssnynN7KwMh2GMeWfK7BeFp1htMA
-```
-
-#### GitHub Sponsor:
-[![Sponsor](https://raw.githubusercontent.com/StringManolo/share/master/images/sponsor_card.jpg)](https://github.com/sponsors/StringManolo)
-
-## Special Thanks
-
-### Sponsors
-
-[![AlbertoBSD](https://avatars.githubusercontent.com/u/17832765?s=60&v=4)](https://github.com/albertobsd) 
-[![TeslamegaPower](https://avatars.githubusercontent.com/u/132848198?s=60&v=4)](https://github.com/TeslamegaPower)
-
-
------
-
-
-### Selected Works
-
+### Featured Projects
 | Project | Preview | Description |
 | :--- | :---: | :--- |
 | **[Panther](https://github.com/stringmanolo/panther)** | <img src="./images/panther_screenshot_landscape.jpg" alt="panther_screenshot" width="300" valign="middle"> | Privacy-focused Android browser |
@@ -72,5 +41,35 @@ If you find my work useful and would like to support me, you can donate via the 
 | **[Fast Framework](https://github.com/stringmanolo/ff2)** | <img src="./images/ff_screenshot.jpg" alt="ff_screenshot" width="300" valign="middle"> | Javascript Framework (components, ts, jsx, router, vdom, ...) |
 | **[Bug Writeups](https://stringmanolo.github.io/bugWriteups/#about)** | <img src="./images/bugwriteups_screenshot.jpg" alt="bugWriteups_screenshot" width="300" valign="middle"> | SPA made with Fast Framework to post vulnerabilities I discovered |
 
+### Community Engagement
+
+* Open Source: 50+ open source public repositories, 800+ collective stars
+* Research: Active CVE hunter and bug bounty participant
+* Education: Author of technical Spanish cybersecurity literature
+
+# Contact & Collaboration
+For professional inquiries, security research collaboration, or custom development:
+* Email: [stringmanolo@gmail.com](mailto:stringmanolo@gmail.com)
+* Telegram: [stringmanolo](https://t.me/stringmanolo)
+* Linkedin: [Manuel Varela Caldas](https://www.linkedin.com/in/manuel-varela-caldas-97576b207)
+* X/Twitter: [XSStringManolo](https://x.com/XSStringManolo)
+
+
+### Support My Work
+
+If my tools or research have helped you, consider supporting continued development:  
+| Method              | Details                                                                                                                                          |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **GitHub Sponsors** | [![Sponsor](https://img.shields.io/badge/Sponsor-@StringManolo-ea4aaa?style=flat-square\&logo=github)](https://github.com/sponsors/StringManolo) |
+| **Stripe**          | [Secure Payment](https://buy.stripe.com/bIY7t6b1z3T857G3cc)                                                                                      |
+| **Monero (XMR)**    | `428z8183vxPDnvrU7TKpjmiYjqsknqZGVHzk458KZCnRNQWcfJbEXxd1BUfyQoRX1uPssnynN7KwMh2GMeWfK7B
+ eFp1htMA`                                                |
+
+**All donations fund open-source security research and privacy tool development.**
+
+### Recognition
+
+[![AlbertoBSD](https://avatars.githubusercontent.com/u/17832765?s=60&v=4)](https://github.com/albertobsd) 
+[![TeslamegaPower](https://avatars.githubusercontent.com/u/132848198?s=60&v=4)](https://github.com/TeslamegaPower)
 
 
