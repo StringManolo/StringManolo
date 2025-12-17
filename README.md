@@ -65,4 +65,5 @@ If you find my work useful and would like to support me, you can donate via the 
 | **[AIehnBOT](https://github.com/stringmanolo/aiehnbot)** | <img src="./images/aiehnbot_screenshot.jpg" alt="aiehnbot_screenshot" width="300" valign="middle"> | Injects a LLM response into foro.elhacker.net |
 | **[Simple Arguments Parser](https://github.com/stringmanolo/simpleargumentsparser)** | <img src="./images/sap_screenshot.jpg" alt="sap_screenshot" width="300" valign="middle"> | NPM module to create CLI tools (js, ts, bash) |
 | **[Steel Spell Scale](https://github.com/stringmanolo/steelspellscale)** | <img src="./images/sss_screenshot.jpg" alt="sss_screenshot" width="300" valign="middle"> | Turn Based RPG |
+| **[Vulnera](https://github.com/stringmanolo/vulnera)** | <img src="./images/vulnera_screenshot.jpg" alt="vulnera_screenshot" width="300" valign="middle"> | Deploy and manage multiple vulnerable server environments for educational and testing purposes |
 
