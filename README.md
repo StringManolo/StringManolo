@@ -62,8 +62,7 @@ If my tools or research have helped you, consider supporting continued developme
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **GitHub Sponsors** | [![Sponsor](https://img.shields.io/badge/Sponsor-@StringManolo-ea4aaa?style=flat-square\&logo=github)](https://github.com/sponsors/StringManolo) |
 | **Stripe**          | [Secure Payment](https://buy.stripe.com/bIY7t6b1z3T857G3cc)                                                                                      |
-| **Monero (XMR)**    | `428z8183vxPDnvrU7TKpjmiYjqsknqZGVHzk458KZCnRNQWcfJbEXxd1BUfyQoRX1uPssnynN7KwMh2GMeWfK7B
- eFp1htMA`                                                |
+| **Monero (XMR)**    | `428z8183vxPDnvrU7TKpjmiYjqsknqZGVHzk458KZCnRNQWcfJbEXxd1BUfyQoRX1uPssnynN7KwMh2GMeWfK7BeFp1htMA` |
 
 **All donations fund open-source security research and privacy tool development.**
 
