@@ -64,4 +64,5 @@ If you find my work useful and would like to support me, you can donate via the 
 | **[Kotlin APK Template](https://github.com/StringManolo/KotlinApkTemplate)** | <img src="./images/kotlinapktemplate_screenshot.jpg" alt="helloworld_apk_screenshot" width="300" valign="middle"> | Compile Android APKs in 2 minutes - ZERO installation required |
 | **[AIehnBOT](https://github.com/stringmanolo/aiehnbot)** | <img src="./images/aiehnbot_screenshot.jpg" alt="aiehnbot_screenshot" width="300" valign="middle"> | Injects a LLM response into foro.elhacker.net |
 | **[Simple Arguments Parser](https://github.com/stringmanolo/simpleargumentsparser)** | <img src="./images/sap_screenshot.jpg" alt="sap_screenshot" width="300" valign="middle"> | NPM module to create CLI tools (js, ts, bash) |
+| **[Steel Spell Scale](https://github.com/stringmanolo/steelspellscale)** | <img src="./images/sss_screenshot.jpg" alt="sss_screenshot" width="300" valign="middle"> | Turn Based RPG |
 
