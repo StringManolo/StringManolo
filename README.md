@@ -62,4 +62,5 @@ If you find my work useful and would like to support me, you can donate via the 
 | **[invjsible](https://github.com/StringManolo/invjsible)** | <img src="./images/invjsible_screenshot.jpg" alt="invjsible_screenshot" width="300" valign="middle"> | Hides data in plain sight with steganography |
 | **[StartPage](https://github.com/StringManolo/startpage)** | <img src="./images/startpage_screenshot.jpg" alt="startpage_screenshot" width="300" valign="middle"> | WebApp to use as the home page for browsers |
 | **[Kotlin APK Template](https://github.com/StringManolo/KotlinApkTemplate)** | <img src="./images/kotlinapktemplate_screenshot.jpg" alt="helloworld_apk_screenshot" width="300" valign="middle"> | Compile Android APKs in 2 minutes - ZERO installation required |
+| **[AIehnBOT](https://github.com/stringmanolo/aiehnbot)** | <img src="./images/aiehnbot_screenshot.jpg" alt="aiehnbot_screenshot" width="300" valign="middle"> | Injects a LLM response into foro.elhacker.net |
 
