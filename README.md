@@ -51,7 +51,7 @@ If you find my work useful and would like to support me, you can donate via the 
 -----
 
 
-### Core Projects
+### Selected Works
 
 | Project | Preview | Description |
 | :--- | :---: | :--- |
