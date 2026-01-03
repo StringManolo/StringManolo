@@ -19,7 +19,7 @@
 
 * Technologies: Full-Stack, App development, CLI, Automation
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&layout=compact&theme=dracula&hide_border=true&lang_count=6&hide=html,css&custom_title=Languages)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&layout=compact&theme=dracula&hide_border=true&lang_count=6&hide=html,css&custom_title=Languages)-->
 
 ### Featured Projects
 | Project | Preview | Description |
