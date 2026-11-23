@@ -20,7 +20,7 @@
 
 * Platforms: Android, Linux  
 
-* Technologies: Full-Stack, App development, CLI, Automation
+* Technologies: Full-Stack, App development, CLI, Automation, Artificial Inteligence
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&layout=compact&theme=dracula&hide_border=true&lang_count=6&hide=html,css&custom_title=Languages)-->
 
