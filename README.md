@@ -3,7 +3,8 @@
 
 <img src="./images/header_github.png" alt="header_github">
 
-<img src="https://github-tracker.stringmanolo.workers.dev/?user=stringmanolo&repo=StringManoloGithubProfile" width="0" height="0">
+<!-- <img src="https://github-tracker.stringmanolo.workers.dev/?user=stringmanolo&repo=StringManoloGithubProfile" width="0" height="0">
+-->
 
 <!-- [![committers.top badge](https://user-badge.committers.top/spain/StringManolo.svg?a=2)](https://user-badge.committers.top/spain/StringManolo) -->
 
@@ -26,6 +27,8 @@
 ### Featured Projects
 | Project | Preview | Description |
 | :--- | :---: | :--- |
+| **[Kyanite](https://github.com/StringManolo/Kyanite)** | <img src="./images/kyanite_screenshot.png" alt="Kyanite Linux screenshot" width="300" valign="middle"> | Lightweight Linux distribution built with memory-safe Rust core tools, Debian package compatibility and ARM64/AMD64 support |
+| **[KyaniteAndroid](https://github.com/StringManolo/KyaniteAndroid)** | <img src="./images/kyaniteandroid_screenshot.png" alt="KyaniteAndroid screenshot" width="300" valign="middle"> | Private, encrypted Linux environment on Android without root access 
 | **[Panther](https://github.com/stringmanolo/panther)** | <img src="./images/panther_screenshot_landscape.jpg" alt="panther_screenshot" width="300" valign="middle"> | Privacy-focused Android browser |
 | **[SOSCW](https://github.com/smallOS-cyberwarfare/smallOS-cyberwarfare)** | <img src="./images/soscw_screenshot.jpg" alt="soscw_screenshot" width="300" valign="middle"> | Linux Userland Distro for Hacking  |
 | **[Termux Hacking 101](https://github.com/StringManolo/hackingTermux101)** | <img src="./images/th101.png" alt="book" width="300" valign="middle"> | Book about Termux and Hacking |
