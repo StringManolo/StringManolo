@@ -28,7 +28,7 @@
 | Project | Preview | Description |
 | :--- | :---: | :--- |
 | **[Kyanite](https://github.com/StringManolo/Kyanite)** | <img src="./images/kyanite_screenshot.png" alt="Kyanite Linux screenshot" width="300" valign="middle"> | Lightweight Linux distribution |
-| **[KyaniteAndroid](https://github.com/StringManolo/KyaniteAndroid)** | <img src="./images/kyaniteandroid_screenshot.png" alt="KyaniteAndroid screenshot" width="300" valign="middle"> | Linux on Android without root access 
+| **[Kyanite Android](https://github.com/StringManolo/KyaniteAndroid)** | <img src="./images/kyaniteandroid_screenshot.png" alt="KyaniteAndroid screenshot" width="300" valign="middle"> | Linux on Android without root access 
 | **[Panther](https://github.com/stringmanolo/panther)** | <img src="./images/panther_screenshot_landscape.jpg" alt="panther_screenshot" width="300" valign="middle"> | Privacy-focused Android browser |
 | **[SOSCW](https://github.com/smallOS-cyberwarfare/smallOS-cyberwarfare)** | <img src="./images/soscw_screenshot.jpg" alt="soscw_screenshot" width="300" valign="middle"> | Linux Userland Distro for Hacking  |
 | **[Termux Hacking 101](https://github.com/StringManolo/hackingTermux101)** | <img src="./images/th101.png" alt="book" width="300" valign="middle"> | Book about Termux and Hacking |
