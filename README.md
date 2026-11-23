@@ -36,7 +36,8 @@
 | **[invjsible](https://github.com/StringManolo/invjsible)** | <img src="./images/invjsible_screenshot.jpg" alt="invjsible_screenshot" width="300" valign="middle"> | Hides data in plain sight with steganography |
 | **[StartPage](https://github.com/StringManolo/startpage)** | <img src="./images/startpage_screenshot.jpg" alt="startpage_screenshot" width="300" valign="middle"> | WebApp to use as the home page for browsers |
 | **[Kotlin APK Template](https://github.com/StringManolo/KotlinApkTemplate)** | <img src="./images/kotlinapktemplate_screenshot.jpg" alt="helloworld_apk_screenshot" width="300" valign="middle"> | Compile Android APKs in 2 minutes - ZERO installation required |
-| **[AIehnBOT](https://github.com/stringmanolo/aiehnbot)** | <img src="./images/aiehnbot_screenshot.jpg" alt="aiehnbot_screenshot" width="300" valign="middle"> | Injects a LLM response into foro.elhacker.net |
+|**[Debian4Android](https://github.com/stringmanolo/debianlivecd4android)** | <img src="./images/debianlivecd4android_screenshot.png" alt="aiehnbot_screenshot" width="300" valign="middle"> | Privacy/Security alternative to Termux|
+|**[AIehnBOT](https://github.com/stringmanolo/aiehnbot)** | <img src="./images/aiehnbot_screenshot.jpg" alt="aiehnbot_screenshot" width="300" valign="middle"> | Injects a LLM response into foro.elhacker.net |
 | **[Simple Arguments Parser](https://github.com/stringmanolo/simpleargumentsparser)** | <img src="./images/sap_screenshot.jpg" alt="sap_screenshot" width="300" valign="middle"> | Create CLI tools (js, ts, rust, c++, bash) |
 | **[Steel Spell Scale](https://github.com/stringmanolo/steelspellscale)** | <img src="./images/sss_screenshot.jpg" alt="sss_screenshot" width="300" valign="middle"> | Turn Based RPG |
 | **[Vulnera](https://github.com/stringmanolo/vulnera)** | <img src="./images/vulnera_screenshot.png" alt="vulnera_screenshot" width="300" valign="middle"> | Run and manage multiple vulnerable server environments |
