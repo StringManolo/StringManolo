@@ -24,7 +24,7 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StringManolo&layout=compact&theme=dracula&hide_border=true&lang_count=6&hide=html,css&custom_title=Languages)-->
 
-### Featured Projects
+### Stable Projects
 | Project | Preview | Description |
 | :--- | :---: | :--- |
 | **[Kyanite](https://github.com/StringManolo/Kyanite)** | <img src="./images/kyanite_screenshot.png" alt="Kyanite Linux screenshot" width="300" valign="middle"> | Lightweight Linux distribution |
