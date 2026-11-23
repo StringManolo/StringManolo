@@ -28,7 +28,8 @@
 | Project | Preview | Description |
 | :--- | :---: | :--- |
 | **[Kyanite](https://github.com/StringManolo/Kyanite)** | <img src="./images/kyanite_screenshot.png" alt="Kyanite Linux screenshot" width="300" valign="middle"> | Lightweight Linux distribution |
-| **[Kyanite Android](https://github.com/StringManolo/KyaniteAndroid)** | <img src="./images/kyaniteandroid_screenshot.png" alt="KyaniteAndroid screenshot" width="300" valign="middle"> | Linux on Android without root access 
+| **[Kyanite Android](https://github.com/StringManolo/KyaniteAndroid)** | <img src="./images/kyaniteandroid_screenshot.png" alt="KyaniteAndroid screenshot" width="300" valign="middle"> | Linux on Android (No Root)
+| **[CLIPI](https://github.com/stringmanolo/CLIPI)** | <img src="./images/CLIPI_transparent.png" alt="CLIPI banner" width="300" valign="middle"> | HTTPS proxy interceptor for |
 | **[Panther](https://github.com/stringmanolo/panther)** | <img src="./images/panther_screenshot_landscape.jpg" alt="panther_screenshot" width="300" valign="middle"> | Privacy-focused Android browser |
 | **[SOSCW](https://github.com/smallOS-cyberwarfare/smallOS-cyberwarfare)** | <img src="./images/soscw_screenshot.jpg" alt="soscw_screenshot" width="300" valign="middle"> | Linux Userland Distro for Hacking  |
 | **[Termux Hacking 101](https://github.com/StringManolo/hackingTermux101)** | <img src="./images/th101.png" alt="book" width="300" valign="middle"> | Book about Termux and Hacking |
@@ -36,7 +37,7 @@
 | **[invjsible](https://github.com/StringManolo/invjsible)** | <img src="./images/invjsible_screenshot.jpg" alt="invjsible_screenshot" width="300" valign="middle"> | Hides data in plain sight with steganography |
 | **[StartPage](https://github.com/StringManolo/startpage)** | <img src="./images/startpage_screenshot.jpg" alt="startpage_screenshot" width="300" valign="middle"> | WebApp to use as the home page for browsers |
 | **[Kotlin APK Template](https://github.com/StringManolo/KotlinApkTemplate)** | <img src="./images/kotlinapktemplate_screenshot.jpg" alt="helloworld_apk_screenshot" width="300" valign="middle"> | Compile Android APKs in 2 minutes - ZERO installation required |
-|**[Debian4Android](https://github.com/stringmanolo/debianlivecd4android)** | <img src="./images/debianlivecd4android_screenshot.png" alt="aiehnbot_screenshot" width="300" valign="middle"> | Privacy/Security alternative to Termux|
+|**[Debian4Android](https://github.com/stringmanolo/debianlivecd4android)** | <img src="./images/debianlivecd4android_screenshot.png" alt="debianlivecd4android_screenshot" width="300" valign="middle"> | Privacy/Security alternative to Termux |
 |**[AIehnBOT](https://github.com/stringmanolo/aiehnbot)** | <img src="./images/aiehnbot_screenshot.jpg" alt="aiehnbot_screenshot" width="300" valign="middle"> | Injects a LLM response into foro.elhacker.net |
 | **[Simple Arguments Parser](https://github.com/stringmanolo/simpleargumentsparser)** | <img src="./images/sap_screenshot.jpg" alt="sap_screenshot" width="300" valign="middle"> | Create CLI tools (js, ts, rust, c++, bash) |
 | **[Steel Spell Scale](https://github.com/stringmanolo/steelspellscale)** | <img src="./images/sss_screenshot.jpg" alt="sss_screenshot" width="300" valign="middle"> | Turn Based RPG |
